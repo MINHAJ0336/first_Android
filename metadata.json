@@ -1,0 +1,11 @@
+{
+  "name": "FamConnect - Family Chat & Gallery",
+  "description": "A warm, modern family mobile app featuring real-time group & private chatting, live camera video calls, shared photo & video gallery, voice memos, and family moments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
